@@ -1,0 +1,235 @@
+.color-container{
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    min-height: 80vh;
+    margin: 0;
+    /* background-color: #f4ebeb; */
+}
+
+.palette {
+    margin-top: 10%;
+    margin-left: 10%;
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+
+.color {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+.red {
+    background-color: #e71515;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.red2 {
+    /* background-color: #81c784; */
+    background-color: rgb(235, 75, 75);
+    top: 20px;
+    left: 20px;
+    z-index: 2;
+}
+.red3 {
+    /* background-color: #64b5f6; */
+    background-color: #e75a5a;
+    top: 40px;
+    left: 40px;
+    z-index: 3;
+}
+
+.red4 {
+    /* background-color: #ffd54f; */
+    background-color: #ea8383;
+    top: 60px;
+    left: 60px;
+    z-index: 4;
+}
+
+.red5{
+    /* background-color: #ba68c8; */
+    background-color: rgb(240, 154, 154);
+    top: 80px;
+    left: 80px;
+    z-index: 5;
+}
+
+.palette2 {
+    margin-top: 10%;
+    /* margin-left: ; */
+    position: relative;
+    width: 200px;
+    height: 200px;}
+
+
+.yellow {
+    background-color: rgb(253, 253, 4);
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.yellow2 {
+    background-color: rgb(248, 248, 32);
+    top: 20px;
+    left: 20px;
+    z-index: 2;
+}
+.yellow3 {
+    
+    background-color:rgb(246, 246, 67);
+    top: 40px;
+    left: 40px;
+    z-index: 3;
+}
+
+.yellow4 {
+    background-color:rgb(242, 242, 109);
+    top: 60px;
+    left: 60px;
+    z-index: 4;
+}
+
+.yellow5{
+    /* background-color: #ba68c8; */
+    background-color:rgb(245, 245, 136);
+    top: 80px;
+    left: 80px;
+    z-index: 5;
+}
+
+.palette3 {
+    margin-top: 10%;
+    /* margin-left: 5%; */
+    position: relative;
+    width: 200px;
+    height: 200px;}
+
+
+.pink {
+    background-color: rgb(240, 31, 66);
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.pink2 {
+    background-color: rgb(234, 56, 86);
+    top: 20px;
+    left: 20px;
+    z-index: 2;
+}
+.pink3 {
+    
+    background-color:rgb(237, 87, 112);
+    top: 40px;
+    left: 40px;
+    z-index: 3;
+}
+
+.pink4 {
+    background-color:rgb(236, 127, 145);
+    top: 60px;
+    left: 60px;
+    z-index: 4;
+}
+
+.pink5{
+    background-color:rgb(244, 160, 174);
+    top: 80px;
+    left: 80px;
+    z-index: 5;
+}
+
+.palette4 {
+    margin-top: 10%;
+    /* margin-left: 5%; */
+    position: relative;
+    width: 200px;
+    height: 200px;}
+
+
+.green{
+    background-color: rgb(2, 44, 2);
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.green2 {
+    background-color: rgb(5, 105, 5);
+    top: 20px;
+    left: 20px;
+    z-index: 2;
+}
+.green3 {
+    background-color:rgb(6, 163, 6);
+    top: 40px;
+    left: 40px;
+    z-index: 3;
+}
+
+.green4 {
+    background-color:rgb(8, 180, 8);
+    top: 60px;
+    left: 60px;
+    z-index: 4;
+}
+
+.green5{
+    background-color:rgb(58, 230, 58);
+    top: 80px;
+    left: 80px;
+    z-index: 5;
+}
+
+.palette5 {
+    margin-top: 10%;
+    /* margin-left: 5%; */
+    position: relative;
+    width: 200px;
+    height: 200px;}
+
+
+.blue{
+    background-color:rgb(16, 16, 239);
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.blue2 {
+    background-color:rgb(54, 54, 238);
+    top: 20px;
+    left: 20px;
+    z-index: 2;
+}
+.blue3 {
+    background-color:rgb(74, 74, 240);
+    top: 40px;
+    left: 40px;
+    z-index: 3;
+}
+
+.blue4 {
+    background-color:rgb(110, 110, 241);
+    top: 60px;
+    left: 60px;
+    z-index: 4;
+}
+
+.blue5{
+    background-color:rgb(131, 131, 240);
+    top: 80px;
+    left: 80px;
+    z-index: 5;
+}
+
+
+
